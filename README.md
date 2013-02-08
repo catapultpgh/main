@@ -7,11 +7,12 @@ This is a git repository for the Catapult PGH coworking space. This is the main 
 - [Catapult PGH site][1]
 
 
-## For New Members
+## For New Members (Installation)
 
-1. Our wireless network is "catapultpgh" without quotes. Ask someone for the password.
+1. Get on the wireless network: Our wireless network is "catapultpgh" without quotes. Ask someone for the password.
 2. Request an invite for our internal google group [here][2]
-3. Talk trash on in our irc channel #catapultpgh on irc.freenode.net
+3. Wait to get excepted to google group
+3. (Optional) Talk trash on in our irc channel #catapultpgh on irc.freenode.net
 4. [Group Calendar][3] - once you get on the email list, ask someone to get admin permissions to the calendar
 
 
