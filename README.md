@@ -1,6 +1,7 @@
 # catapultpgh
 
-This is a git repository for the [Catapult PGH][4] coworking space. This is the main repository for the community and the space. If something needs fixed or you have an idea to improve the coworking space, feel free to submit a ticket.
+## Intro
+This is a git repository for the [Catapult PGH][4] coworking space. This is the main repository for the community and the space. If something needs fixing or you have an idea to improve the coworking space, feel free to submit a ticket.
 
 **Other related projects**
 
@@ -13,7 +14,7 @@ This is a git repository for the [Catapult PGH][4] coworking space. This is the 
 2. Request an invite for our internal google group [here][2]
 3. Wait to get excepted to google group
 3. (Optional) Talk trash on in our irc channel #catapultpgh on irc.freenode.net
-4. [Group Calendar][3] - once you get on the email list, ask someone to get admin permissions to the calendar
+4. [Group Calendar][3] - once you get on the email list, ask someone to get admin permissions to the calendar. Once you get admin permissions, you can reserve the conference room.
 
 
 
