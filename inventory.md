@@ -14,4 +14,3 @@
 - make shift coffee table
 - cube shelving unit
 - coat rack (associated allen wrench in kitchenette upper right drawer)
-- 
