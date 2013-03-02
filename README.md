@@ -15,7 +15,12 @@ This is a git repository for the [Catapult PGH][4] coworking space. This is the 
 3. Wait to get excepted to google group
 4. [Group Calendar][3] - once you get on the email list, ask someone to get admin permissions to the calendar. Once you get admin permissions, you can reserve the conference room.
 
-
+## Communication
+- inbox@catapultpgh.org
+- #catapultpgh on freenode
+- @catapultpgh on twitter and app.net
+- There is a facebook page someplace
+- 5139 Penn Ave. PGH PA 15224
 
 [1]: https://github.com/catapultpgh/catapultpgh-site
 [2]: https://groups.google.com/d/forum/catapultpgh
