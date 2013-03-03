@@ -6,7 +6,7 @@ This is a git repository for the [Catapult PGH][4] coworking space. This is the 
 **Other related projects**
 
 - [Catapult PGH site][1]
-
+- [Catapult Weblog][blog]
 
 ## For New Members (Installation)
 
@@ -29,3 +29,4 @@ This is a git repository for the [Catapult PGH][4] coworking space. This is the 
 [3]: http://www.google.com/calendar/embed?src=uubi2gppen4ia1dmc0op342pac%40group.calendar.google.com&ctz=America/New_York
 [4]: http://catapultpgh.org
 [5]: https://www.gittip.com/catapultpgh/
+[blog]: https://github.com/catapultpgh/catapultpgh.github.com
