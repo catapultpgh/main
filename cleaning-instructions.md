@@ -1,6 +1,10 @@
 weekly cleaning
 ===============
 
+replenish
+---------
+-toilet paper
+
 coffee station
 --------------
 - straighten and put dishes away
