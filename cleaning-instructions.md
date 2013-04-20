@@ -1,9 +1,11 @@
 weekly cleaning
 ===============
 
-replenish
----------
--toilet paper
+check and/or replenish
+----------------------
+- toilet paper
+- dish soap in kitchen
+- hand soap in bathroom
 
 coffee station
 --------------
@@ -26,10 +28,6 @@ garbage + recycling
 - empty all trash cans around the space
 - also occasionally clean out the trash can
 
-vacuum
-------------
-- make sure the vacuum is working (belt was recently replaced)
-- vacuum the whole space
 
 towels
 ----------
@@ -39,3 +37,6 @@ towels
 monthly cleaning
 ================
 - clean out suspect fridge items
+- vacuum
+- make sure the vacuum is working (belt was recently replaced)
+- vacuum the whole space
