@@ -10,18 +10,18 @@ This is a git repository for the [Catapult PGH][4] coworking space. This is the 
 
 ## For New Members (Installation)
 
-1. Wireless Network: Our wireless network is "catapultpgh" without quotes. Ask someone for the password.
-2. Email List: google group [here][2]
-3. [Group Calendar][3]: once you get on the email list, ask someone to get admin permissions to the calendar. Once you get admin permissions, you can reserve the conference room.
-4. Donate: You can donate through [gittip][5]. We ask for a suggested donation of 9 dollars a day, but we don't keep track of individual member donations and we don't know who donates what, so feel free to do what you think is right.
-5. Someone is always in the space from 9:30 AM to 5:00 PM. If you need/want a key, come talk to someone about it.
+0. Join the Wireless Network (Optional): Our wireless network is "catapultpgh" without quotes. Ask someone for the password.
+1. Join the Email List: google group [here][2]
+2. Join the [Group Calendar][3]: once you get on the email list, ask someone to get admin permissions to the calendar. Once you get admin permissions, you can reserve the conference room.
+3. Donate: You can donate through [gittip][5]. We ask for a suggested donation of 9 dollars a day, but we don't keep track of individual member donations and we don't know who donates what, so feel free to do what you think is right.
+4. If you need/want a key, come talk to someone about it.
 
 ## Communication
 - inbox@catapultpgh.org
 - #catapultpgh on freenode
 - @catapultpgh on twitter and app.net
 - There is a facebook page someplace
-- 5139 Penn Ave. PGH PA 15224
+- 5139 Penn Ave. PGH PA 15224 930AM to 530PM
 
 [1]: https://github.com/catapultpgh/catapultpgh-site
 [2]: https://groups.google.com/d/forum/catapultpgh
