@@ -3,5 +3,5 @@
 - Post to the Highland Park mailing list
 - Post on nevertellmetheodds.org
 - post on the friendship list
-
+- post on garfield bulletin
 
