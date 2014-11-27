@@ -21,7 +21,7 @@ This is a git repository for the [Catapult PGH][4] coworking space. This is the 
 - #catapultpgh on freenode
 - @catapultpgh on twitter and app.net
 - There is a facebook page someplace
-- 5139 Penn Ave. PGH PA 15224 930AM to 530PM
+- 4327 Butler St., Second Floor, Pittsburgh PA 15201
 
 [1]: https://github.com/catapultpgh/catapultpgh-site
 [2]: https://groups.google.com/d/forum/catapultpgh
