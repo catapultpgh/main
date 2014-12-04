@@ -22,7 +22,7 @@ This is a git repository for the [Catapult PGH][4] coworking space. This is the 
 - Model: HL-5470DW
 - IP Address: 10.0.1.2
 
-### Scanning
+## Scanning
 
 - ScanSnap ix500
 - Name: Catapultpgh-Scanner
