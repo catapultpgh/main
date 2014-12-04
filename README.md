@@ -16,6 +16,18 @@ This is a git repository for the [Catapult PGH][4] coworking space. This is the 
 3. Donate: You can donate through [gittip][5]. We ask for a suggested donation of 9 dollars a day, but we don't keep track of individual member donations and we don't know who donates what, so feel free to do what you think is right.
 4. If you need/want a key, come talk to someone about it.
 
+## Printing
+### Brother Black and White Laser Printer
+
+- Model: HL-5470DW
+- IP Address: 10.0.1.2
+
+### Scanning
+
+- ScanSnap ix500
+- Name: Catapultpgh-Scanner
+- Password: dogshoeexitapple
+- get the android or iOS app and scan wirelessly
 ## Communication
 - inbox@catapultpgh.org
 - #catapultpgh on freenode
