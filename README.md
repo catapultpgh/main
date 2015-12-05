@@ -9,6 +9,10 @@ This is a git repository for the [Catapult PGH][1] coworking space. This is the 
 1. Donate: You can donate through [Gratipay][2]. We ask for a suggested donation of 9 dollars a day, but we don't keep track of individual member donations and we don't know who donates what, so feel free to do what you think is right.
 2. If you need/want a key, come talk to someone about it.
 
+## Check our Finances
+mint.com
+username: inbox@catapultpgh.org
+password: MWM-uPB-MtC-pL8
 ## Printing
 ### Brother Black and White Laser Printer
 
