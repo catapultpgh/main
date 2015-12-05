@@ -11,8 +11,8 @@ This is a git repository for the [Catapult PGH][1] coworking space. This is the 
 
 ## Check our Finances
 mint.com
-username: inbox@catapultpgh.org
-password: MWM-uPB-MtC-pL8
+username: money@catapultpgh.org  
+password: vFU-VUE-kMS-Vc5
 ## Printing
 ### Brother Black and White Laser Printer
 
