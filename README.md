@@ -10,7 +10,7 @@ This is a git repository for the [Catapult PGH][1] coworking space. This is the 
 2. If you need/want a key, fill out the form here [catapult key form][catapultpgh.org/key-policy.pdf]
 
 ## Check our Finances
-mint.com  
+[mint.com][http://mint.com]
 username: money@catapultpgh.org  
 password: vFU-VUE-kMS-Vc5
 ## Printing
@@ -27,9 +27,8 @@ password: vFU-VUE-kMS-Vc5
 - get the android or iOS app and scan wirelessly
 
 ## Communication
-- inbox@catapultpgh.org
-- #catapultpgh on freenode
-- @catapultpgh on twitter and app.net
+- inbox@catapultpgh.org for general communication
+- @catapultpgh on twitter
 - There is a facebook page someplace
 - 4327 Butler St., Second Floor, Pittsburgh PA 15201
 
