@@ -6,11 +6,11 @@ This is a git repository for the [Catapult PGH][1] coworking space. This is the 
 ## For New Members (Installation)
 
 0. Join the Wireless Network (Optional): Our wireless network is "catapultpgh" without quotes. Ask someone for the password.
-1. Donate: You can donate through [Gratipay][2]. We ask for a suggested donation of 9 dollars a day, but we don't keep track of individual member donations and we don't know who donates what, so feel free to do what you think is right.
-2. If you need/want a key, come talk to someone about it.
+1. **Pick a payment amount.** Catapult is run in a "pay what you feel" model. This is not a typical donation model such as NPR where each member *assumes* others are covering their costs. There are no members covering your costs, and all payments are public, as all of catapult financial transations are public.
+2. If you need/want a key, fill out the form here [catapult key form][catapultpgh.org/key-policy.pdf]
 
 ## Check our Finances
-mint.com
+mint.com  
 username: money@catapultpgh.org  
 password: vFU-VUE-kMS-Vc5
 ## Printing
