@@ -1,7 +1,7 @@
 # catapultpgh
 
 ## Intro
-This is a git repository for the [Catapult PGH][1] coworking space (go [here][https://github.com/catapultpgh/catapultpgh.github.io] for the website repo. This is the main repository for the community and the space. If something needs fixing or you have an idea to improve the coworking space, feel free to [submit a ticket](https://github.com/catapultpgh/main/issues/new).
+This is a git repository for the [Catapult PGH][1] coworking space (go [here](https://github.com/catapultpgh/catapultpgh.github.io) for the website repo. This is the main repository for the community and the space. If something needs fixing or you have an idea to improve the coworking space, feel free to [submit a ticket](https://github.com/catapultpgh/main/issues/new).
 
 ## For New Members (Installation)
 
