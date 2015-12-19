@@ -2,7 +2,7 @@
 
 ## Intro
 
-Catapult Coworking space is striving to become an open space/open workspace/open coworking space. The hope is to follow suit with the open source community and open company community to foster a space built on giving, rather than demanding. A space based on an open freelow of value (and money) based on the value added and taken from the space.
+Catapult Coworking space is striving to become an open space/open workspace/open coworking space. The hope is to follow suit with the open source community and open company community to foster a space built on gifts, rather than demands. A space based on an open freelow of value (and money) based on the value added and taken from the space.
 
 This is a git repository for the [Catapult PGH][1] coworking space (go [here](https://github.com/catapultpgh/catapultpgh.github.io) for the website repo). This is the main repository for the community and the space. If something needs fixing or you have an idea to improve the coworking space, feel free to [submit a ticket](https://github.com/catapultpgh/main/issues/new).
 
