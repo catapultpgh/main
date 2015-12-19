@@ -1,6 +1,9 @@
 # catapultpgh
 
 ## Intro
+
+Catapult Coworking space is striving to become an open space/open workspace/open coworking space. The hope is to follow suit with the open source community and open company community to foster a space built on giving, rather than demanding. A space based on an open freelow of value (and money) based on the value added and taken from the space.
+
 This is a git repository for the [Catapult PGH][1] coworking space (go [here](https://github.com/catapultpgh/catapultpgh.github.io) for the website repo). This is the main repository for the community and the space. If something needs fixing or you have an idea to improve the coworking space, feel free to [submit a ticket](https://github.com/catapultpgh/main/issues/new).
 
 ## For New Members (Installation)
@@ -10,7 +13,8 @@ This is a git repository for the [Catapult PGH][1] coworking space (go [here](ht
 2. If you need/want a key, fill out the form here [catapult key form][catapultpgh.org/key-policy.pdf]
 
 ## Check our Finances
-[mint.com][http://mint.com]
+Catapult is striving to be as transparent as painfully possible. with that, all bank transactions are viewable here:
+[mint.com][3]
 username: money@catapultpgh.org  
 password: vFU-VUE-kMS-Vc5
 ## Printing
@@ -43,3 +47,4 @@ password: vFU-VUE-kMS-Vc5
 
 [1]: http://catapultpgh.org
 [2]: https://gratipay.com/catapultpgh/
+[3]: http://mint.com
