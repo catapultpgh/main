@@ -32,5 +32,11 @@ password: vFU-VUE-kMS-Vc5
 - There is a facebook page someplace
 - 4327 Butler St., Second Floor, Pittsburgh PA 15201
 
+## Inspirations/Role Models/Precedence
+- https://www.youtube.com/watch?v=4ABqCgKi4X0
+- https://medium.com/enspiral-tales/no-boss-does-not-mean-no-leadership-c4c97c660252#.mizlmmz6g
+- https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c#.apybpxd5x
+- https://www.noisebridge.net/
+
 [1]: http://catapultpgh.org
 [2]: https://gratipay.com/catapultpgh/
