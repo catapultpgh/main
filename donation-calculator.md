@@ -1,20 +1,12 @@
-# Donation Calculator
+# Payment Suggestion Calculator
 
-Use this document to calculate your monthly donation. Then setup a re-occuring donation [here][1].
+Use (or not) this document to calculate your monthly payment. Then setup a re-occuring donation [here][1].
 
-## Expenses
+## Member who does not have a permanent desk
+1. 60 dollars/month
+2. add 1 dollar per cup of coffee per month
+3. add 1 dollar per beer per month
+4. subtract 1 dollar per helpful act per month
 
-    Monthly
-    ----------
-    90      Key 
-    50      Desk
 
-
-    One Time
-    --------
-    00.50   Coffee
-    10      basement
-
-## Contributions
-
-    You Run an Awesome 
+[1]: http://catapultpgh.org
