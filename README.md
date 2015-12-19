@@ -39,6 +39,7 @@ password: vFU-VUE-kMS-Vc5
 - https://www.noisebridge.net/
 - Business entities built on the block chain
 - Distributed automouse corporations
+- ad-hoc-racy
 
 [1]: http://catapultpgh.org
 [2]: https://gratipay.com/catapultpgh/
