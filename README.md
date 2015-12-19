@@ -37,6 +37,8 @@ password: vFU-VUE-kMS-Vc5
 - https://medium.com/enspiral-tales/no-boss-does-not-mean-no-leadership-c4c97c660252#.mizlmmz6g
 - https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c#.apybpxd5x
 - https://www.noisebridge.net/
+- Business entities built on the block chain
+- Distributed automouse corporations
 
 [1]: http://catapultpgh.org
 [2]: https://gratipay.com/catapultpgh/
