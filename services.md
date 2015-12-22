@@ -14,4 +14,8 @@
 ## Services
 - Internet (Comcast 50mbps down) (account holder: elliott williams)
 - Water/Water Cooler rental (account holder: elliott williams)
+  - (866) 573-7873
+  - phone number on account 412 979 1774
+  - name on account elliott williams catapult pgh
+  - address on account 4327 butler st pgh pa 15201
 - coffee through heart roasters (elliott williams via catapult pnc: 20/lbs x 3 lbs a week)
