@@ -16,9 +16,10 @@ This is a git repository for the [Catapult PGH][1] coworking space (go [here](ht
 3. If you want to do something to improve the space: apologize, don't ask for permission
 ## Check our Finances
 Catapult is striving to be as transparent as painfully possible. with that, all bank transactions are viewable here:
-[mint.com][3]
-username: money@catapultpgh.org  
-password: vFU-VUE-kMS-Vc5
+[paypal.com][3]
+email: catapultpgh
+note: i know that's not an email, but it works (paypal sucks)
+password: roastbeef1
 ## Printing
 ### Brother Black and White Laser Printer
 
@@ -49,4 +50,4 @@ password: vFU-VUE-kMS-Vc5
 
 [1]: http://catapultpgh.org
 [2]: https://gratipay.com/catapultpgh/
-[3]: http://mint.com
+[3]: http://paypal.com
