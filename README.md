@@ -17,9 +17,9 @@ This is a git repository for the [Catapult PGH][1] coworking space (go [here](ht
 ## Check our Finances
 Catapult is striving to be as transparent as painfully possible. with that, all bank transactions are viewable here:
 [paypal.com][3]
-email: catapultpgh
-note: i know that's not an email, but it works (paypal sucks)
-password: roastbeef1
+email: catapultpgh    
+note: i know that's not an email, but it works (paypal sucks)   
+password: roastbeef1   
 ## Printing
 ### Brother Black and White Laser Printer
 
