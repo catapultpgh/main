@@ -23,3 +23,8 @@ The mail is community sorted. If you see mail in front of the mail cubbies, pick
 
 Since we have so many members, on most days we have a UPS employee come to the space. There is a place to leave your pre-packaged UPS deliveries to be picked up. Again, this is an ad-hock system.
 
+## Why this way?
+
+The numbers are to make it easier to find the correct box. Previously, we just had user names, and matching a letter with a sea of un-sorted names was very difficult. Having number facilitates community sorting. The numbers also facilitate better google foo. If one exact address has too many business names attached to it, google penalized those companies as they seem less real. If you care about people finding you on the inter-webs, because use a number.
+
+The mail is community sorted for the simple fact that it keeps costs down.
