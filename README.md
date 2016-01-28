@@ -11,7 +11,7 @@ This is a git repository for the [Catapult PGH][1] coworking space (go [here](ht
 ## For New Members (Installation)
 
 0. Join the Wireless Network (Optional): Our wireless network is "catapultpgh" without quotes. Ask someone for the password.
-1. **Pick a payment amount.** Catapult is run in a "pay what you feel" model. This is not a typical donation model such as NPR where each member *assumes* others are covering their costs. There are no members covering your costs, and all payments are public, as all of catapult financial transations are public.
+1. **Pick a payment amount.** Catapult is run in a "pay what you feel" model. This is not a typical donation model such as NPR where each member *assumes* others are covering their costs. There are no members covering your costs, and all payments are public, as all of catapult financial transations are public. There will be a posting of all contributing members and their contribution amounts somewhere in the space.
 2. If you need/want a key, fill out the form here [catapult key form][catapultpgh.org/key-policy.pdf]
 3. If you want to do something to improve the space: apologize, don't ask for permission
 ## Check our Finances
