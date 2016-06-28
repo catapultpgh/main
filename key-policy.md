@@ -1,9 +1,19 @@
 # How to Become a Member of Catapult PGH
 
 
-## Blah
+## Things People Need to Learn
+
+* Make coffee
+* get on slack
+* learn how the conference works
+* mailboxes
+* facewall
+* trash recycling
+* dish policy
 
 ***
+
+## Talk about...
 ### Space Ops/Maintenence
 * Description
 * Phip
@@ -53,8 +63,4 @@
 ***
 ## Keys to the Castle
 
-Catapult is a community first and a space second. We all rely on each other to take care of the
-space. **There’s no lock that can protect a space from people with keys.** Instead of seeing this as
-an obstacle, we see it as an opportunity. In order for new members to get keys, new members
-need to get signatures from 4 current members. This gives members a chance to meet “The
-New Kid” and also show new members all the quirks of the space.
+Catapult is a community first and a space second. We all rely on each other to take care of the space. **There’s no lock that can protect a space from people with keys.** Instead of seeing this as an obstacle, we see it as an opportunity. In order for new members to get keys, new members need to get signatures from 4 current members. This gives members a chance to meet “The New Kid” and also show new members all the quirks of the space.
